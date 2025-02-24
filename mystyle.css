@@ -2,6 +2,10 @@ body{
     background:#ccc;
 }
 
+html {
+    scroll-padding-top: 80px;
+}
+
 #Header a:hover{
     color:#fff;
 }
